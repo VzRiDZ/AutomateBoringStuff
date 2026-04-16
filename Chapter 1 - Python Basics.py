@@ -1,6 +1,11 @@
 """ Python Basics """
 
 # Expressions
+# Expressions consist of values (such as 2) and operators (such as +).
+# They can always evaluate (that is, reduce) down to a single value.
+# That means you can use expressions anywhere in Python code that you could also use a value.
+
+
 # Math Operators
 
 # ** Exponentiation 2 ** 3 = 8
@@ -22,3 +27,21 @@ print(sum3)
 
 sum4 = 48565878 * 578453
 print(sum4)
+
+sum5 = 2 ** 8
+print(sum5)
+
+sum6 = 23 / 7
+print(sum6)
+
+sum7 = 23 // 7
+print(sum7)
+
+sum8 = 23 % 7
+print(sum8)
+
+sum9 = 2    +     2
+print(sum9)
+
+sum10 = (5 - 1) * ((7 + 1) / (3 - 1))
+print(sum10)
