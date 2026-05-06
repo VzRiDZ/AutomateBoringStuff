@@ -1,4 +1,4 @@
-""" Python Basics """
+""" Chapter 1 - Python Basics """
 
 # Expressions
 # Expressions consist of values (such as 2) and operators (such as +).
